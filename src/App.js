@@ -15,6 +15,15 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          drum-machine/
+├── public/
+├── src/
+│   ├── index.js
+│   ├── styles.css
+│   └── ...
+├── package.json
+└── ...
+
           Learn React
         </a>
       </header>

@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom';
-import './styles.css';
+import './index.css';  // Importing the CSS file
+
+// Your existing code for the drum machine...
 
 const drumPads = [
   { key: 'Q', sound: 'Heater 1', src: 'https://s3.amazonaws.com/freecodecamp/drums/Heater-1.mp3' },
