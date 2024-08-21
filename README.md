@@ -2,6 +2,10 @@
 
 This is a Drum Machine project built with React. The project fulfills the requirements specified in the freeCodeCamp Frontend Libraries certification. It includes 9 drum pads that play sounds when clicked or when the corresponding key is pressed.
 
+## Demo 📸
+![Demo](picture.png)
+
+
 ## User Stories
 
 - The project has an outer container with an id of "drum-machine" that contains all other elements.
@@ -31,6 +35,12 @@ This is a Drum Machine project built with React. The project fulfills the requir
   ```html
   <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
   
+
+  ## Author 👩‍💻
+- Twitter: [@Latifa_Wakili](https://x.com/WakiliLatifa?t=wlHTh8JuyFprQsN_hZQGWQ&s=08)
+- LinkedIn: [Latifa Wakili](https://www.linkedin.com/in/latifa-wakili-68423b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: [Latifa Wakili](saavenwakili@gmail.com)
+
   
 ### **Running the Project**
 1. **Clone the Repository:** Clone your newly created GitHub repository.
